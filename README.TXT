@@ -3,7 +3,7 @@ PROJECT TITLE: AP CSA Assignment 1 (An interactive seating chart using Greenfoot
 
 PURPOSE OF PROJECT: The purpose of this assignment is to visually work with classes and subclasses, abstract classes, and interfaces, and to familiarize yourself with the basics of the GIT command line.  As a side effect, it will help your instructor learn your names!
 
-VERSION or DATE: 07/21/2020
+VERSION or DATE: 09/15/2020
 
 HOW TO START THIS PROJECT:  To start this project, assuming that you have Greenfoot installed, click on the greenfoot project file within the top level of the assignment directory.  If greenfoot is correctly installed, you will see a green foot icon just to the left of "project".
 
